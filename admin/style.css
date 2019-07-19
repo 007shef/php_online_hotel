@@ -1,0 +1,42 @@
+body{
+    background-color: darkred;
+    text-align: center;
+    
+}
+ textarea{
+                width:100px;
+            }
+.table{
+                
+            width:100px;
+            height:100px;
+            border-color: black;
+            }
+            
+a{
+   
+    border-radius: 6px;
+    background-color: tomato;
+    font-size:30px;
+    color:black;
+    
+    
+}
+form{
+    background-color: darkred;
+}
+h1{
+    font-size:70px;
+} 
+input[type=submit]{
+    font-size:30px;
+    text-align: center;
+   
+}
+table,input[type=text],select,input[type=file],input[type=date],input[type=password]{
+    font-size: 30px;
+    
+}
+   
+    
+    
